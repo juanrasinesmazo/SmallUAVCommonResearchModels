@@ -1,0 +1,11 @@
+# Component	COTS Part	Comment
+Autopilot	Matek H743-WING	Ardupilot 4.7.0
+GNSS	u-blox M10Q	with a QMC5883L digital compass
+Airspeed	Matek DLVR-L10D	
+Radio	TBS Crossfire Nano RC receiver	
+Telemetry	RFDesign RFD900x-AU	
+Battery	1300mAh 3S 11.1V	
+Motor	T-motor F40PROII-2600kV	
+ESC	CobraMotorsUSA 33A	
+Propeller	APC 5.5x4.5E	
+Servos	E-MAX ES08MAII	
